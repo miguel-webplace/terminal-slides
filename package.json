@@ -1,0 +1,12 @@
+{
+  "name": "terminal-slides",
+  "version": "1.0.0",
+  "description": "Markdown-driven presentations that look like a Linux terminal. Open index.html in a browser; no build step.",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true,
+  "license": "MIT",
+  "keywords": ["presentation", "slides", "markdown", "terminal"]
+}
